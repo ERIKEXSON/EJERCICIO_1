@@ -11,12 +11,12 @@ width: 970px;
 height: 1390px;
 margin: 60px 0 0 80px;
 padding-top: 1px;
-background-color: blanchedalmond;
+background-color: gray;
 }
 .page1 article{
     height: 600px;
-    margin: 10px 30px 20px 40px;
-    background-color: green;
+    margin: 5px 30px 30px 40px;
+    background-color:whitesmoke;
 }
 .page1 div{
     height: 400px;
@@ -26,7 +26,7 @@ background-color: blanchedalmond;
 .page1 aside{
     height: 300px;
     margin: 30px 40px 30px 30px;
-    background-color: blue;
+    background-color: rebeccapurple;
 }
 /*Page 2*/
 .page2{
@@ -34,7 +34,7 @@ background-color: blanchedalmond;
     height: 950px;
     margin: 60px 0 0 80px;
     padding-top: 1px;
-    background-color: blanchedalmond;
+    background-color: gray;
 }
 .page2 article{
     background-color: black;
@@ -44,14 +44,14 @@ background-color: blanchedalmond;
     padding-top: 1px;
 }
 .page2 article div{
-    background-color: aquamarine;
+    background-color:whitesmoke;
     width: 800px;
     height: 100px;
     margin: 30px 15px 20px 20px;
     padding: 0;
 }
 .page2 article aside{
-    background-color: aquamarine;
+    background-color: whitesmoke;
     width: 800px;
     height: 100px;
     margin: 20px 15px 10px 20px;
@@ -67,7 +67,7 @@ background-color: blanchedalmond;
     width: 800px;
     height: 300px;
     margin: 30px 25px 20px 10px;
-    background-color: aquamarine;
+    background-color: whitesmoke;
 }
 .page2 aside{
     width: 835px;
@@ -81,20 +81,20 @@ background-color: blanchedalmond;
     height: 830px;
     margin: 40px 0 0 30px;
     padding-top: 1px;
-    background-color: blanchedalmond;
+    background-color: gray;
 }
 .page3>article{
     width: 900px;
     height: 300px;
     margin: 10px 40px 30px 40px;
-    background-color: midnightblue;
+    background-color: whitesmoke;
 }
 .page3>div{
     width: 900px;
     height: 240px;
     margin: 30px 50px 40px 30px;
     padding-top: 1px;
-    background-color: midnightblue;
+    background-color: whitesmoke;
 }
 .page3>div>article{
     width: 850px;
@@ -113,7 +113,7 @@ background-color: blanchedalmond;
     height: 200px;
     margin: 40px 60px 10px 20px;
     padding-top: 1px;
-    background-color: midnightblue
+    background-color: whitesmoke
 }
 .page3>aside>article{
     width: 860px;
@@ -127,13 +127,13 @@ background-color: blanchedalmond;
     height: 100px;
     margin: 20px;
     padding-top: 1px;
-    background-color: blue;
+    background-color: rgba(0, 0, 255, 0.288);
 }
 .page3>aside>article>div>aside{
     width: 780px;
     height: 80px;
     margin: 10px 20px;
-    background-color: yellow;
+    background-color: rgba(255, 255, 0, 0.24);
 }
 /*Page 4*/
 .page4{
@@ -141,14 +141,14 @@ background-color: blanchedalmond;
     height: 1200px;
     margin: 40px 0 0 40px;
     padding-top: 1px;
-    background-color: blanchedalmond;
+    background-color: rgba(255, 235, 205, 0.171);
 }
 .page4>article{
     width: 960px;
     height: 1160px;
     margin: 20px;
     padding-top: 1px;
-    background-color: yellow;
+    background-color: rgb(138, 138, 130);
 }
 .page4>article>div{
     width: 900px;
@@ -162,7 +162,7 @@ background-color: blanchedalmond;
     height: 520px;
     margin: 20px 10px;
     padding-top: 1px;
-    background-color: red;
+    background-color:whitesmoke;
 }
 .page4>article>div>aside>article{
     width: 840px;
@@ -182,7 +182,7 @@ background-color: blanchedalmond;
     height: 520px;
     margin: 20px 10px;
     padding-top: 1px;
-    background-color: red;
+    background-color:whitesmoke;
 }
 .page4>article>div>article>div{
     width: 840px;
@@ -203,7 +203,7 @@ background-color: blanchedalmond;
     height: 1480px;
     margin: 70px 0 0 60px;
     padding-top: 1px;
-    background-color: blanchedalmond;
+    background-color: gray;
 }
 .page5>article{
     width: 800px;
